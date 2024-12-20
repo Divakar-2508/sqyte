@@ -1,0 +1,26 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+:root {
+  --bg-primary: #232323;
+  --bg-secondary: #2E2E2E;
+  --bg-accent: #383838;
+
+  --text-primary: #FFFFFF;
+  --text-secondary: #B3B3B3;
+  --text-error: #FF6B6B;
+
+  --highlight: #00ADB5;
+  --hover: #3DDAD7;
+  --success: #76C893;
+  --warning: #FF9F1C;
+
+  --stroke-primary: #3C3C3C;
+  --stroke-accent: #00ADB5;
+  --stroke-disabled: #555555;
+}
